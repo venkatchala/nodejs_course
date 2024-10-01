@@ -1,0 +1,5 @@
+30-07-2024	11:37:26	4169d395-ac87-44b5-b79b-12b892dcc8a1	log event emitted
+30-07-2024	11:37:56	cdf46220-36f4-482e-bf43-f51947cdbe25	log event emitted
+30-07-2024	11:42:52	57ab178a-236d-4ea5-8b4a-5df7cb9102b9	log event emitted
+30-07-2024	11:42:52	3896bd79-6aed-4ce7-afd9-c70ae759f1d4	log event emitted
+30-07-2024	11:42:54	e5491cda-78e7-4044-bd59-700d269a921f	log event emitted
